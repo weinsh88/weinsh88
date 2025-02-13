@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋, I'm Elliott
 
 <!--
 **weinsh88/weinsh88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+I'm a software engineer/enthusiast 
+- I write code, read papers, and think about query construction and streams 
+- 🌱 I’m currently learning [🐈](https://typelevel.org/cats/) 
+- Ask me about Scala 
+- ⚡ Fun fact: I used to be an accountant, but please don't ask me about taxes
+
+<!-- ## Links
 -->
