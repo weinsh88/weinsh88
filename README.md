@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a software engineer/enthusiast 
-- I write code, read papers, and think about query construction and streams 
+- I write code and read papers about query construction and streams 
 - 🌱 I’m currently learning [🐈](https://typelevel.org/cats/) 
 - Ask me about Scala 
 - ⚡ Fun fact: I used to be an accountant, but please don't ask me about taxes
